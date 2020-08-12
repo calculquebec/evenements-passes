@@ -2,5 +2,5 @@ csvDate,csvLieu,csvCode,csvTitre,csvInstructeur,csvAssistants,csvDiapos,csvMater
 2020-08-05,Université de Montréal,RRR101,Introduction à la programmation en R,Daniel Stubbs,"Mohamed Jabir, Julie Faure-Lacroix",https://drive.google.com/file/d/1LM8Dokx_97Kn6WvIV0q8HS-rRDbopVR-/view?usp=sharing,,
 2020-05-15,UQAM,RRR201,Programmation en R intermédiaire,Daniel Stubbs,"Nikolai Sergueev, Pier-Luc St-Onge",https://drive.google.com/open?id=1yHseW8vAaUXGeQ0PAmyCePAMqffcv41p,,
 2020-03-10,Université de Montréal,RRR101,Introduction à la programmation en R,Daniel Stubbs,Mohamed Jabir,https://drive.google.com/open?id=16eTwdv5934lfzt50POJ-9ugcdKVP22xs,,
-2020-03-04,École des HÉC,CIP101,Premiers pas sur les serveurs de Calcul Canada,"Mohamed Jabir, Pier-Luc St-Onge",,https://drive.google.com/open?id=1JqJrHLPcOMsgw3wPocT39c-FOa4q5C3s,https://github.com/calculquebec/cq-formation-premiers-pas/tree/master/demo-python,
+2020-03-04,"École des HÉC",CIP101,Premiers pas sur les serveurs de Calcul Canada,Mohamed Jabir,Pier-Luc St-Onge,https://drive.google.com/open?id=1JqJrHLPcOMsgw3wPocT39c-FOa4q5C3s,https://github.com/calculquebec/cq-formation-premiers-pas/tree/master/demo-python,
 2020-03-04,Université de Sherbrooke,PYT201,Optimisation en Python,Eric Giguère,,,https://github.com/Ericgig/formation/blob/master/optimisation-python.tar,
