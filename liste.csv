@@ -9,3 +9,8 @@ csvDate,csvLieu,csvCode,csvTitre,csvInstructeur,csvAssistants,csvDiapos,csvMater
 2020-02-12,Universtié de Sherbrooke,CIP101,Premiers pas sur les grappes de Calcul Canada,Eric Giguère,,https://docs.google.com/presentation/d/1ZcmwIpHBPyoMvR9QSWGIysbc0dMmmmaXD6ncGyNT8bI/edit?usp=sharing,,
 2020-02-11,Université de Montréal,CIP101,Premiers pas sur les grappes de Calcul Canada,Daniel Stubbs,,https://drive.google.com/open?id=1aJsGIe8cnH06DbfDaD5mF2PWPsr48lwM,,
 2020-01-28,UQAM,CIP101,Premiers pas sur les grappes de Calcul Canada,Daniel Stubbs,,https://drive.google.com/file/d/1--_4SxXVhJw17U4pBvINFRN3ccSSC8WL/view?usp=sharing,,
+2019-11-20,Université McGill,NVC201,Introduction to GPU (CUDA),Pier-Luc St-Onge,"Darcy Quesnel, Simon Nderitu",https://tinyurl.com/cq-intro-cuda-20191120,https://github.com/calculquebec/intro-cuda/archive/mcgill.zip,
+2019-11-06,Université de Sherbrooke,PYT101,Introduction à la programmation en Python (2ième partie),Eric Giguère,,,https://github.com/Ericgig/formation/tree/master/python,
+2019-10-30,Université de Sherbrooke,PYT101,Introduction à la programmation en Python (1ère partie),Eric Giguère,,,https://github.com/Ericgig/formation/tree/master/python,
+2019-10-17,Université McGill,MidiCf,Remote Visualization (X11, X2Go, VNC),Pier-Luc St-Onge,,https://drive.google.com/open?id=13KpuaN8ccS2VQryDlIVPqxu6bHgfdo-Qt0YDbyTB7vY,,
+2019-10-10,Université McGill,CIP101,Introduction to Advanced Research Computing (ARC),Pier-Luc St-Onge,"Darcy Quesnel, Simon Nderitu",https://tinyurl.com/cq-intro-arc-20191010,,
