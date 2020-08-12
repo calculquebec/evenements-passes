@@ -1,2 +1,2 @@
-When,Where,TypeID,Title,Who,Slides,Exercises,Exercise directions,Video,Videoconference
-2020-08-05,Université de Montréal,RRR101,Introduction à la programmation en R,"Daniel Stubbs, Mohamed Jabir, Julie Faure-Lacroix",https://drive.google.com/file/d/1LM8Dokx_97Kn6WvIV0q8HS-rRDbopVR-/view?usp=sharing,,,,
+csvDate,csvLieu,csvCode,csvTitre,csvInstructeur,csvAssistants,csvDiapos,csvMateriel,csvVideo
+2020-08-05,Université de Montréal,RRR101,Introduction à la programmation en R,Daniel Stubbs,"Mohamed Jabir, Julie Faure-Lacroix",https://drive.google.com/file/d/1LM8Dokx_97Kn6WvIV0q8HS-rRDbopVR-/view?usp=sharing,,
