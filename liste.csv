@@ -20,7 +20,7 @@ csvDate,csvLieu,csvCode,csvTitre,csvInstructeur,csvAssistants,csvDiapos,csvMater
 2019-10-02,Université McGill,UNX101,Introduction to Linux,Pier-Luc St-Onge,,https://drive.google.com/open?id=153MHJ4h7uBJRSwmWOaawT0W6QVKYKV4naGZaJNAEVes,,
 2019-10-01,Université de Sherbrooke,UNX101,Introduction à Linux,Michel Barrette,Eric Giguère,https://swcarpentry.github.io/shell-novice/,,
 2019-10-01,Université de Montréal,RRR101,Introduction à la programmation en R,Daniel Stubbs,,https://drive.google.com/file/d/1VV5ieVjtUkk14hvl5WYutoWcA8UrRQ4k/view?usp=sharing,,
-2019-09-19,Université McGill,MidiCf,Optimization and Vectorization - Lunch-conference,Pier-Luc St-Onge,Bart Oldeman,https://drive.google.com/open?id=1ZCLTjXReCNg_nzF60_grhOSZ-_EeB3UZ5QflydNKkcg,,
+2019-09-19,Université McGill,MidiCf,Optimization and Vectorization,Pier-Luc St-Onge,Bart Oldeman,https://drive.google.com/open?id=1ZCLTjXReCNg_nzF60_grhOSZ-_EeB3UZ5QflydNKkcg,,
 2019-08-21,Université McGill,CIP101,Introduction to Advanced Research Computing (ARC),Pier-Luc St-Onge,"Darcy Quesnel, Simon Nderitu",https://tinyurl.com/cq-intro-arc-20190821,https://github.com/calculquebec/cq-formation-premiers-pas,
 2019-04-04,Université McGill,MidiCf,Béluga - An Introduction,Pier-Luc St-Onge,,https://docs.google.com/presentation/d/1cQzLHlZG9sPJThNTAP4OZolgCsJvbC9vwu1hverOaJY/edit?usp=sharing,,https://www.youtube.com/watch?v=o2Z7bvi0Q0w
 2019-03-13,Calcul Québec,MidiCf,Migration des données vers Béluga,Pier-Luc St-Onge,,https://docs.google.com/presentation/d/1NKn5WxkU3iFf3tLNnOp84dPmfdDoNOAJC7npQfONKzU/edit?usp=sharing,,https://www.youtube.com/watch?v=URD6Pjjr3qA
