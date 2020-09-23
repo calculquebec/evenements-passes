@@ -1,4 +1,5 @@
 csvDate,csvLieu,csvCode,csvTitre,csvInstructeur,csvAssistants,csvDiapos,csvMateriel,csvVideo
+2020-09-23,Zoom,CIP101,Premiers pas sur les serveurs de calcul,Mohamed Jabir,"Julie Faure-Lacroix, Pier-Luc St-Onge",https://drive.google.com/file/d/1o4l6pV4437b9r7i6DrTBBUUbPDr6f2UD/view,,
 2020-08-05,Université de Montréal,RRR101,Introduction à la programmation en R,Daniel Stubbs,"Mohamed Jabir, Julie Faure-Lacroix",https://drive.google.com/file/d/1LM8Dokx_97Kn6WvIV0q8HS-rRDbopVR-/view?usp=sharing,,
 2020-05-15,UQAM,RRR201,Programmation en R intermédiaire,Daniel Stubbs,"Nikolai Sergueev, Pier-Luc St-Onge",https://drive.google.com/open?id=1yHseW8vAaUXGeQ0PAmyCePAMqffcv41p,,
 2020-03-10,Université de Montréal,RRR101,Introduction à la programmation en R,Daniel Stubbs,Mohamed Jabir,https://drive.google.com/open?id=16eTwdv5934lfzt50POJ-9ugcdKVP22xs,,
