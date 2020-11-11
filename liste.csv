@@ -1,4 +1,5 @@
 csvDate,csvLieu,csvCode,csvTitre,csvInstructeur,csvAssistants,csvDiapos,csvMateriel,csvVideo
+2020-11-11,En ligne / Online,PYT101,Introduction à la programmation avec Python,Mohamed Jabir,"Charles, Pier-Luc",,https://github.com/calculquebec/python-novice-inflammation/tree/cq-notebooks,
 2020-10-14,En ligne / Online,RRR202,R parallèle sur supercalculateur,Julie Faure-Lacroix,"Mohamed, Charles, Daniel, Pier-Luc",https://raw.githubusercontent.com/calculquebec/r_parallele/main/jour1/journee1.pdf,https://github.com/calculquebec/r_parallele/archive/main.zip,
 2020-10-08,En ligne / Online,CIP101,First steps on High Performance Computing servers,Pier-Luc St-Onge,"Mohamed, Bart, Darcy, Maxime",https://docs.google.com/presentation/d/1cUBKxhsOM5bZC8oyJKn4lfRjPQfafO6OWrD7c55i5vI/edit,https://etherpad.wikimedia.org/p/cip101-20201008,
 2020-09-23,En ligne / Online,CIP101,Premiers pas sur les serveurs de calcul,Mohamed Jabir,"Julie Faure-Lacroix, Pier-Luc St-Onge",https://drive.google.com/file/d/1o4l6pV4437b9r7i6DrTBBUUbPDr6f2UD/view,https://etherpad.wikimedia.org/p/cip101-20200923,
