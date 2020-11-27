@@ -1,4 +1,5 @@
 csvDate,csvLieu,csvCode,csvTitre,csvInstructeur,csvAssistants,csvDiapos,csvMateriel,csvVideo
+2020-11-26,En ligne / Online,DAT201,Data analysis and visualization in Python,Darcy Quesnel,"Mohamed, Nikolai, Pier-Luc",https://docs.google.com/presentation/d/1ysYvo2MnbYi8bR-bnWJe_mb1n_zK8oridO-zvZ9tzS0/edit?usp=sharing,https://github.com/calculquebec/python-ecology-lesson/tree/cq-notebooks,
 2020-11-24,En ligne / Online,DAT201,Analyse de données avec Python,Pier-Luc St-Onge,"Mohamed, Darcy",https://docs.google.com/presentation/d/18-KfQhEpHVBHnjL5tgqxN_8HvWSiFQBeS_DA1R216is/edit?usp=sharing,https://github.com/calculquebec/python-ecology-lesson/tree/cq-notebooks,
 2020-11-11,En ligne / Online,PYT101,Introduction à la programmation avec Python,Mohamed Jabir,"Charles, Pier-Luc",,https://github.com/calculquebec/python-novice-inflammation/tree/cq-notebooks,
 2020-10-14,En ligne / Online,RRR202,R parallèle sur supercalculateur,Julie Faure-Lacroix,"Mohamed, Charles, Daniel, Pier-Luc",https://raw.githubusercontent.com/calculquebec/r_parallele/main/jour1/journee1.pdf,https://github.com/calculquebec/r_parallele/archive/main.zip,
