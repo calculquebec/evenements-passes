@@ -1,4 +1,5 @@
 csvDate,csvLieu,csvCode,csvTitre,csvInstructeur,csvAssistants,csvDiapos,csvMateriel,csvVideo
+2021-02-17,En ligne / Online,CIP101,Premiers pas sur les serveurs de calcul,Pier-Luc St-Onge,"Charles, Pierre-Olivier",https://drive.google.com/file/d/1Ermwpk6qnW2SRlfOBSF2b5DscttfihcI/view?usp=sharing,https://docs.computecanada.ca/wiki/R/fr#Ex.C3.A9cution_2,
 2021-02-03,En ligne / Online,UNX101,Introduction à la ligne de commande Bash,Pier-Luc St-Onge,"Charles, Mohamed",https://docs.google.com/presentation/d/1ZOcAZx3PXYwwE6y3NscoRnaqreTLelZLLg3c7nyUsEc/edit?usp=sharing,https://etherpad.wikimedia.org/p/unx101-20210203,
 2020-12-09,En ligne / Online,MidiCf,Pipelines et gestion des données,Pier-Luc St-Onge,"Maxime, Mohamed, Darcy",https://drive.google.com/file/d/1kCQdXiWeUJi-F78uDBxJvn9g7fzX43TD/view?usp=sharing,,https://www.youtube.com/watch?v=AFk3uJ30qX0
 2020-11-26,En ligne / Online,DAT201,Data analysis and visualization in Python,Darcy Quesnel,"Mohamed, Nikolai, Pier-Luc",https://docs.google.com/presentation/d/1ysYvo2MnbYi8bR-bnWJe_mb1n_zK8oridO-zvZ9tzS0/edit?usp=sharing,https://github.com/calculquebec/python-ecology-lesson/tree/cq-notebooks,
