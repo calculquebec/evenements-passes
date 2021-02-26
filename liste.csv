@@ -1,4 +1,5 @@
 csvDate,csvLieu,csvCode,csvTitre,csvInstructeur,csvAssistants,csvDiapos,csvMateriel,csvVideo
+2021-02-24,En ligne / Online,CIP101,First steps on HPC servers,Pierre-Olivier Quirion,"Mohamed",https://drive.google.com/file/d/1RuK6oFCs5VasTB4sEWtILdSwXWrzprZL/view?usp=sharing,,
 2021-02-17,En ligne / Online,CIP101,Premiers pas sur les serveurs de calcul,Pier-Luc St-Onge,"Charles, Pierre-Olivier",https://drive.google.com/file/d/1Ermwpk6qnW2SRlfOBSF2b5DscttfihcI/view?usp=sharing,https://docs.computecanada.ca/wiki/R/fr#Ex.C3.A9cution_2,
 2021-02-11,En ligne / Online,MidiCf,Infrastructure at your fingertips,Pierre-Olivier Quirion,,https://docs.google.com/presentation/d/1OyJOBRfWQHwAJ-t7FfI6s4vL989q1D9zg1lX8915BP4/edit#slide=id.g10817ccdd8_0_79,,
 2021-02-03,En ligne / Online,UNX101,Introduction à la ligne de commande Bash,Pier-Luc St-Onge,"Charles, Mohamed",https://docs.google.com/presentation/d/1ZOcAZx3PXYwwE6y3NscoRnaqreTLelZLLg3c7nyUsEc/edit?usp=sharing,https://etherpad.wikimedia.org/p/unx101-20210203,
