@@ -1,4 +1,5 @@
 csvDate,csvLieu,csvCode,csvTitre,csvInstructeur,csvAssistants,csvDiapos,csvMateriel,csvVideo
+2021-04-15,En ligne / Online,MidiCf,Calcul Québec et le calcul informatique de pointe au service des sciences humaines et sociales,Stéphanie et Lucas,"Pier-Luc,Maxime",https://docs.google.com/presentation/d/1wjo-5BE2TJOgIESEP8Ki_fMpOvN68-kB0OV6uhidYeg/edit?usp=sharing,,
 2021-04-06,En ligne / Online,DAT201,Analyse de données et visualisation en Python,Pier-Luc St-Onge,"Charles, Darcy, Mohamed",https://docs.google.com/presentation/d/1SYl_tNpeQpqu37oWwvJEX1kgmlTHTXkDq8FkGstMXEw/edit,https://github.com/calculquebec/python-ecology-lesson/tree/cq-notebooks,
 2021-02-24,En ligne / Online,CIP101,First steps on HPC servers,Pierre-Olivier Quirion,"Mohamed",https://drive.google.com/file/d/1RuK6oFCs5VasTB4sEWtILdSwXWrzprZL/view?usp=sharing,,
 2021-02-17,En ligne / Online,CIP101,Premiers pas sur les serveurs de calcul,Pier-Luc St-Onge,"Charles, Pierre-Olivier",https://drive.google.com/file/d/1Ermwpk6qnW2SRlfOBSF2b5DscttfihcI/view?usp=sharing,https://docs.computecanada.ca/wiki/R/fr#Ex.C3.A9cution_2,
